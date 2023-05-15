@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(212, 159, 159);
+    background-color:rgb(156, 202, 138);
 }
 
 .img-cabeçalho{
@@ -8,4 +8,8 @@ body{
 
 .cabeçalho{
 display: flex;
+}
+
+.principal{
+    background-image: linear-gradient(rgb(104, 100, 100), rgb(96, 223, 96));
 }
